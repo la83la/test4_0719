@@ -1,6 +1,13 @@
 My name is lala! 
+Today is July 21. 
+And Thursday. 
+Branch 3 is what, I don't know.
+Where is the branch 4? 
+What, I am branch 5.
 So I am who?
 I am still main.
 Branch 7 already.
 Reserve branch 8. 
 Branch 8 but not want to push to origin/ branch. 
+Yeah! Merge fail! 
+My way !! gogo !! From 3!!!
